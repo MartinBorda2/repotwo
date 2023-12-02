@@ -1,0 +1,128 @@
+[
+    {
+        "id": "indica-01",
+        "titulo": "White Widow",
+        "imagen": "../img/abrigos/White-Widow-fem-3.jpg",
+        "categoria": {
+            "nombre": "Índicas",
+            "id": "indicas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "indica-02",
+        "titulo": "Hollands Hope",
+        "imagen": "../img/abrigos/hollands-hope.jpg",
+        "categoria": {
+            "nombre": "Índicas",
+            "id": "indicas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "indica-03",
+        "titulo": "Auto Mazar",
+        "imagen": "../img/abrigos/mazar_2010_1.jpg",
+        "categoria": {
+            "nombre": "Índicas",
+            "id": "indicas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "indica-04",
+        "titulo": "Karels Haze",
+        "imagen": "../img/abrigos/karel-s-haze.jpg",
+        "categoria": {
+            "nombre": "Índicas",
+            "id": "indicas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "sativa-01",
+        "titulo": "Charlottes Angel",
+        "imagen": "../img/camisetas/Charlottes-Angel-nearing-harvest-April-2021-scaled.jpg",
+        "categoria": {
+            "nombre": "Sativas",
+            "id": "sativas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "sativa-02",
+        "titulo": "Auto Chunkadelic",
+        "imagen": "../img/camisetas/AUTO CHUNKADELIC.jpg",
+        "categoria": {
+            "nombre": "Sativas",
+            "id": "sativas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "sativa-03",
+        "titulo": "Auto Orange Bud",
+        "imagen": "../img/camisetas/AUTO ORANGE BUD.jpg",
+        "categoria": {
+            "nombre": "Sativas",
+            "id": "sativas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "sativa-04",
+        "titulo": "Auto Power Plant",
+        "imagen": "../img/camisetas/AUTO POWER PLANT.jpg",
+        "categoria": {
+            "nombre": "Sativas",
+            "id": "sativas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "hibrida-01",
+        "titulo": "Sumo",
+        "imagen": "../img/pantalones/sumo.jpg",
+        "categoria": {
+            "nombre": "Híbridas",
+            "id": "hibridas"
+        },
+        "precio": 1000
+
+    },
+    {
+        "id": "hibrida-02",
+        "titulo": "Selene",
+        "imagen": "../img/pantalones/selene.jpg",
+        "categoria": {
+            "nombre": "Híbridas",
+            "id": "hibridas"
+        },
+        "precio": 1000
+
+    },
+    {
+        "id": "hibrida-03",
+        "titulo": "Rucu Cucu OG",
+        "imagen": "../img/pantalones/Rucu-Cucu-Fem.jpg",
+        "categoria": {
+            "nombre": "Híbridas",
+            "id": "hibridas"
+        },
+        "precio": 1000
+
+    },
+    {
+        "id": "hibrida-04",
+        "titulo": "Emerald Fire OG Auto",
+        "imagen": "../img/pantalones/emerald-fire-og-auto-humboldt-seed-company.jpg",
+        "categoria": {
+            "nombre": "Híbridas",
+            "id": "hibridas"
+        },
+        "precio": 1000
+
+    }
+
+
+]
