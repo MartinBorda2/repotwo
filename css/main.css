@@ -60,12 +60,13 @@ aside {
 .logo {
     font-weight: 400;
     font-size: 1.3rem;
+    color: white;
 }
 
 .menu {
     display: flex;
     flex-direction: column;
-    gap: .5rem;
+    gap: 4rem;
 }
 
 .boton-categoria {
@@ -100,11 +101,82 @@ aside {
     padding: 0 .25rem;
     border-radius: .25rem;
 }
+.pie-pagina {
+    width: 100%;
+    background-color: #020a11;
+}
 
-.texto-footer {
+.pie-pagina .grupo-1 {
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 50px;
+    padding: 45px 0px;
+}
+
+.pie-pagina .grupo-1 .box figure {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.pie-pagina .grupo-1 .box figure img {
+    width: 250px;
+    border-radius: 100%;
+}
+
+.pie-pagina .grupo-1 .box h2 {
+    color: #fff;
+    margin-bottom: 25px;
+    font-size: 20px;
+}
+
+.pie-pagina .grupo-1 .box h2:hover {
+    color: rgba(255, 0, 138, 1);
+}
+
+.pie-pagina .grupo-1 .box p {
+    color: #efefef;
+    margin-bottom: 10px;
+}
+
+.pie-pagina .grupo-1 .red-social a {
+    display: inline-block;
+    text-decoration: none;
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    color: #fff;
+    margin-right: 10px;
+    background-color: #0d2033;
+    text-align: center;
+    transition: all 300ms ease;
+    border-radius: 100%;
+}
+
+.pie-pagina .grupo-1 .red-social a:hover {
+    color: rgba(255, 0, 138, 1)
+}
+
+.pie-pagina .grupo-2 {
+    background-color: #0a1a2a;
+    padding: 15px 10px;
+    text-align: center;
+    color: #fff;
+}
+
+.pie-pagina .grupo-2 small {
+    font-size: 15px;
+}
+/* .texto-footer {
     color: rgb(245, 237, 237);
     font-size: .85rem;
-}
+} */
 
 main {
     background-color: var(--clr-white);
@@ -115,7 +187,7 @@ main {
 }
 
 .titulo-principal {
-    color: var(--clr-main);
+    color: white;
     margin-bottom: 2rem;
 }
 
@@ -132,7 +204,7 @@ main {
 
 .producto-detalles {
     background-color: var(--clr-main);
-    color: var(--clr-white);
+    color:#910303;
     padding: .5rem;
     border-radius: 1rem;
     margin-top: -2rem;
